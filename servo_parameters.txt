@@ -1,0 +1,2 @@
+Left and Right ： 180(左底)~55(右底)
+Up and Down ： 0(上底)~140(下底)
